@@ -72,6 +72,11 @@ const Coin = styled.li`
   border-radius:5px;
   width:200px;
   height:200px; 
+  div{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
 `
 
 const Img = styled.img`
